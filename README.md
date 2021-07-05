@@ -52,4 +52,5 @@ Now create a commit message using:
 ## Drawbacks
 
 * Writing on Blockchain is not free so the voters will have to pay a minimal amount of fees (in ether) to vote
+* Voter requires an active internet connection.
 
