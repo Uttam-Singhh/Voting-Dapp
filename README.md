@@ -49,7 +49,7 @@ Now create a commit message using:
 	<br>Now you go to your repository on GitHub, you’ll see a `Compare & pull request` button. Click on that button and now write a summary of what changes you have done.( Attach images if required). I will review your code and merge it if it passes all the tests.❤️
   
   
-## Drawbacks
+## Drawbacks⚠️
 
 * Writing on Blockchain is not free so the voters will have to pay a minimal amount of fees (in ether) to vote
 * Voter requires an active internet connection.
